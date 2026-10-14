@@ -1,0 +1,3 @@
+# Batch D — user decision 2026-10-14: Assistant (mic button unused) + Ambient Mode screensaver
+disable com.google.android.katniss
+disable com.google.android.apps.tv.dreamx

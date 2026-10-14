@@ -1,0 +1,3 @@
+# Phase 1b — stock Google TV home + its fallback that re-enables it
+disable com.google.android.apps.tv.launcherx
+disable com.google.android.tungsten.setupwraith

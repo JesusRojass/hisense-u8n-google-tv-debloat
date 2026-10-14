@@ -1,0 +1,42 @@
+# Tue Oct 13 23:03:46 CST 2026
+MemTotal:        2489544 kB
+MemFree:          220380 kB
+MemAvailable:     698140 kB
+Buffers:           18604 kB
+Cached:           800252 kB
+
+# running services by package
+  26 com.google.android.gms
+  10 com.android.bluetooth
+   9 com.vt.tv.smartsense
+   7 com.mediatek.tv.agent
+   7 com.mediatek.extservice
+   4 com.google.android.tv.remote.service
+   4 com.google.android.katniss
+   3 com.google.android.apps.mediashell
+   3 com.android.systemui
+   2 com.vt.tvservice
+   2 com.vt.source.external
+   2 com.vt.avmiddleware
+   2 com.spocky.projengmenu
+   2 com.mstar.netflixobserver
+   2 com.google.android.ext.services
+   2 com.google.android.apps.tv.launcherx
+   2 com.android.vending
+   2 com.android.tv.settings
+   1 com.vt.tvplayer
+   1 com.vt.tv.ota
+   1 com.vt.tv.interactive
+   1 com.vt.tv.dlna
+   1 com.vt.tv.aipq
+   1 com.vt.source.tuner
+   1 com.vt.edv.drmp
+   1 com.netflix.ninja
+   1 com.mediatek.partner.airplay_sys
+   1 com.mediatek.network
+   1 com.mediatek.airplaydaemon
+   1 com.dolby.android.audio.service
+   1 com.android.se
+   1 com.android.providers.media.module
+   1 com.android.networkstack.tethering.inprocess
+   1 com.android.networkstack.inprocess

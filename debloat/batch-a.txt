@@ -1,0 +1,12 @@
+# Batch A — sponsored / regional preinstalls.  format: <action> <package>   (action: uninstall | disable)
+uninstall com.calientetv
+uninstall com.fic.foxsports
+uninstall com.cbs.ca
+uninstall com.google.android.videos
+uninstall com.spotify.tv.android
+disable com.amazon.amazonvideo.livingroom
+disable net.vidaatv.hisense.android.tv
+disable com.vidaa.oemtabcontentprovider
+disable com.google.android.play.games
+disable com.hisense.odinbrowser
+disable android.autoinstalls.config.google.gtvpai

@@ -1,0 +1,8 @@
+# Batch B — Hisense visible clutter + ACR (positively identified only)
+disable com.vt.tv.evservice
+disable com.vt.hishow
+disable com.vt.tv.protector
+disable com.vt.tv.ai_sense
+disable com.vt.alexa
+disable com.vt.storemode
+disable tv.mopa.ginga

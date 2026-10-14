@@ -1,0 +1,3 @@
+package:com.mediatek.tis
+package:com.mediatek.dtv.tvinput.isdbtuner
+package:com.mediatek.dtv.tvinput.dvbtuner

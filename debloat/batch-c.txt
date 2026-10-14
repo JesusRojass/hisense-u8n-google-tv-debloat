@@ -1,0 +1,4 @@
+# Batch C — minor Google leftovers
+disable com.google.android.feedback
+disable com.google.android.syncadapters.calendar
+disable com.android.printspooler

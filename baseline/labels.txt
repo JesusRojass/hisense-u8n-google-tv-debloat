@@ -1,0 +1,137 @@
+com.mediatek.tis | TIF Test | /system_ext/priv-app/MediatekTIS/MediatekTIS.apk
+com.vt.tv.usbota | System Update | /system_ext/app/USBOTA/USBOTA.apk
+com.mediatek.dtv.tvinput.framework.server | TvInputManagerService | /system_ext/priv-app/TvInputFrameworkServer/TvInputFrameworkServer.apk
+com.vt.storemode | StoreMode | /system_ext/app/Vtp_StoreMode/Vtp_StoreMode.apk
+com.google.android.ext.services | Android Services Library | /apex/com.android.extservices/priv-app/GoogleExtServices/GoogleExtServices.apk
+com.google.android.apps.mediashell | Google Cast | /product/priv-app/AndroidMediaShell/AndroidMediaShell.apk
+com.google.android.katniss | Google | /data/app/~~BkhTj8JL_BkOCCqdKWBi1Q==/com.google.android.katniss-ChGmtkrwEDfpep33xng4NQ==/base.apk
+com.android.dynsystem | Dynamic System Updates | /system/priv-app/DynamicSystemInstallationService/DynamicSystemInstallationService.apk
+android.autoinstalls.config.google.gtvpai | Device configuration | /product/app/GTVPlayAutoInstallStub/GTVPlayAutoInstallStub.apk
+com.mediatek.aowtis |  | /system_ext/priv-app/AowTisDaemonService/AowTisDaemonService.apk
+com.vidaa.oemtabcontentprovider | Hisense | /data/app/~~pxIhPg6NEfS3m9RLzfBegw==/com.vidaa.oemtabcontentprovider-FANzmPC6VQDeDR_0xcu0wg==/base.apk
+com.android.providers.calendar | Calendar Storage | /system/priv-app/CalendarProvider/CalendarProvider.apk
+com.android.tv.settings | Settings | /system_ext/priv-app/TvSettingsCustomization/TvSettingsCustomization.apk
+com.android.providers.media |  | /system/priv-app/MediaProviderLegacy/MediaProviderLegacy.apk
+com.google.android.onetimeinitializer | Google One Time Init | /product/priv-app/GoogleOneTimeInitializer/GoogleOneTimeInitializer.apk
+com.google.android.ext.shared | Android Shared Library | /system/app/GoogleExtShared/GoogleExtShared.apk
+com.plexapp.android | Plex | /data/app/~~aciydEnJlanOUPAsWQRfBg==/com.plexapp.android-mGly57P4pQ9sBr-lvT7J-w==/base.apk
+com.vt.tv.b2b |  | /system_ext/app/B2B/B2B.apk
+com.vt.tv.ota | System Update | /system_ext/app/OTA/OTA.apk
+com.mediatek.partner.airplay_sys | AirPlaySystemService | /system_ext/priv-app/AirPlaySystemService/AirPlaySystemService.apk
+com.vt.tv.tvcenter | Live TV | /system_ext/priv-app/LiveTV/LiveTV.apk
+com.vt.tv.mobiledeviceconnectiontips | Screen Casting | /system_ext/app/Miracast/Miracast.apk
+com.mediatek.AirplayAPK | PULL_FAIL | /vendor/app/AirPlayAPK/AirPlayAPK.apk
+com.vt.avmiddleware |  | /system_ext/app/AvMiddlewareAPP/AvMiddlewareAPP.apk
+com.google.android.apps.tv.launcherx | Google TV | /data/app/~~8SOAPfdfrVminoNCvG1SJw==/com.google.android.apps.tv.launcherx-bvcVwRDlGkUEDVuafN8l7w==/base.apk
+com.android.externalstorage | External Storage | /system/priv-app/ExternalStorageProvider/ExternalStorageProvider.apk
+com.android.htmlviewer | HTML Viewer | /system/app/HTMLViewer/HTMLViewer.apk
+com.android.companiondevicemanager | Companion Device Manager | /system/app/CompanionDeviceManager/CompanionDeviceManager.apk
+com.vt.tvservice | TvService | /system_ext/priv-app/TvService/TvService.apk
+com.android.providers.downloads | Download Manager | /system/priv-app/DownloadProvider/DownloadProvider.apk
+com.android.providers.tv | TV Storage | /system/priv-app/TvProvider/TvProvider.apk
+com.calientetv | FOX One MX | /data/app/~~N2tlr21wGDywtODMklrd7g==/com.calientetv-jdGkHB_NQ2XA_dscdCHv6w==/base.apk
+com.vt.source.external | ExternalTvInput | /system_ext/priv-app/ExternalInput/ExternalInput.apk
+com.android.tv.frameworkpackagestubs | Activity Stub | /system_ext/app/TvFrameworkPackageStubs/TvFrameworkPackageStubs.apk
+com.android.networkstack.inprocess | Network manager | /system/priv-app/InProcessNetworkStack/InProcessNetworkStack.apk
+com.vt.tv.smartsense.ui | SmartsenseUI | /system_ext/app/SmartsenseUI/SmartsenseUI.apk
+com.google.android.tungsten.setupwraith | Setup Wizard | /data/app/~~DBGDuHIY-rZdqCVaWE6iaw==/com.google.android.tungsten.setupwraith--Lbi1Vv7Vk-HlHrXRJjwBg==/base.apk
+com.vt.roomcalibration | Room Calibration | /system_ext/priv-app/RoomCalibration/RoomCalibration.apk
+com.spotify.tv.android | Spotify | /data/app/~~az3IAjOcMjba51vhm-Lg5w==/com.spotify.tv.android-kiw9SOUYjmSA_tOLYCiZDg==/base.apk
+com.android.vending | Google Play Store | /data/app/~~Z04c9G7XABYeWC6pCv7iMw==/com.android.vending-pgg714gb6xQkEsu-qp4blw==/base.apk
+com.android.pacprocessor | PacProcessor | /system/app/PacProcessor/PacProcessor.apk
+com.android.certinstaller | Certificate Installer | /system/app/CertInstaller/CertInstaller.apk
+com.google.android.marvin.talkback | Android Accessibility Suite | /data/app/~~1rbGg1lHcxvSn14O6-6JDQ==/com.google.android.marvin.talkback-udyuJEy8Qgr-FLS6vpBRZA==/base.apk
+com.mediatek.dtv.tvinput.isdbtuner | DvbTvInputService | /product/priv-app/IsdbTvInputService/IsdbTvInputService.apk
+com.vt.tvplayer | tvplayer | /system_ext/priv-app/TvPlayer/TvPlayer.apk
+com.vt.tv.interactive | Interactive | /system_ext/priv-app/Interactive/Interactive.apk
+com.android.backupconfirm |  | /system/priv-app/BackupRestoreConfirmation/BackupRestoreConfirmation.apk
+com.android.statementservice | Intent Filter Verification Service | /system/priv-app/StatementService/StatementService.apk
+com.mediatek.android.tv.globalkeyoverlay | PULL_FAIL | /product/overlay/TvGlobalKeyHandlerOverlay.apk
+com.android.settings.intelligence | Settings Suggestions | /product/priv-app/SettingsIntelligence/SettingsIntelligence.apk
+com.vt.remoteupgrade | Remote control monitor upgrade | /system_ext/app/RemoteUpgrade/RemoteUpgrade.apk
+net.vidaatv.hisense.android.tv | Hisense Channels | /data/app/~~jhSMQYpVRJ2WAWYSXbPxgg==/net.vidaatv.hisense.android.tv-MNggf1_24SA9X0Q4zaJ-Cw==/base.apk
+com.google.android.permissioncontroller | Permission controller | /apex/com.android.permission/priv-app/GooglePermissionController/GooglePermissionController.apk
+com.amazon.amazonvideo.livingroom | Prime Video | /data/app/~~DZGB8hP3lupSlJrTV_mFUQ==/com.amazon.amazonvideo.livingroom-7r93sCNUNywSnzk-k26OAg==/base.apk
+com.android.providers.settings | Settings Storage | /system/priv-app/SettingsProvider/SettingsProvider.apk
+com.dolby.android.audio.service | PULL_FAIL | /vendor/app/DolbyAudioService/DolbyAudioService.apk
+com.android.sharedstoragebackup |  | /system/priv-app/SharedStorageBackup/SharedStorageBackup.apk
+com.android.printspooler | Print Spooler | /system/app/PrintSpooler/PrintSpooler.apk
+com.vt.tv.customerlauncher | CustomerLauncher | /system_ext/app/CustomerLauncher/CustomerLauncher.apk
+com.android.dreams.basic | Basic Daydreams | /system/app/BasicDreams/BasicDreams.apk
+com.mediatek.autopair | AutoPair | /system_ext/priv-app/AutoPair/AutoPair.apk
+com.android.se | SecureElementApplication | /system/app/SecureElement/SecureElement.apk
+com.android.inputdevices | Input Devices | /system/priv-app/InputDevices/InputDevices.apk
+com.vt.tv.aiotsystemservice | AIOTSystemService | /system_ext/app/AIOT_SystemService/AIOT_SystemService.apk
+com.wbd.stream | HBO Max | /data/app/~~69ivpbCWKby0o6CJq9zJlA==/com.wbd.stream-hcuHxVReWxM-eH3_1P3vTA==/base.apk
+com.vt.factory | FACTORY MENU | /system_ext/app/TvFactory/TvFactory.apk
+com.vt.tv.aiot | AIOT | /system_ext/app/Vtp_AIOT/Vtp_AIOT.apk
+com.vt.tv.aipq | AIPQControl | /system_ext/app/AIPQ/AIPQ.apk
+com.vt.tv.dlna | DLNA | /system_ext/app/DLNA/DLNA.apk
+com.google.android.modulemetadata | Main components | /product/app/com.google.android.modulemetadata/com.google.android.modulemetadata.apk
+com.vt.tv.singlelisten | BT Music | /system_ext/app/MyMusic/MyMusic.apk
+com.vt.edv.drmp | DrmpSystemService | /system_ext/app/DrmpSystemService/DrmpSystemService.apk
+com.mediatek.extservice |  | /system_ext/app/ExtService/ExtService.apk
+com.google.android.webview | Android System WebView | /data/app/~~a_SFUWmXKWFCOOovIguo_g==/com.google.android.webview-8BLM8lF8Uuuc4OBhCQBzUA==/base.apk
+com.android.keychain | Key Chain | /system/app/KeyChain/KeyChain.apk
+com.google.android.youtube.tvmusic | YouTube Music | /data/app/~~i9HPzhdtU3eP3W94ZkXDTw==/com.google.android.youtube.tvmusic-r0qJsJr7exVCFMI6TqMasA==/base.apk
+com.google.android.packageinstaller | Package installer | /system/priv-app/GooglePackageInstaller/GooglePackageInstaller.apk
+com.google.android.gms | Google Play services | /data/app/~~HLkS2PXB3gDjBXBIq7APJw==/com.google.android.gms-_a6XrqV0EIBxIxvJdimWtQ==/base.apk
+com.google.android.gsf | Google Services Framework | /system_ext/priv-app/GoogleServicesFramework/GoogleServicesFramework.apk
+com.google.android.tts | Speech Recognition and Synthesis from Google | /data/app/~~H4k971ecKFp_sl0adKnQUQ==/com.google.android.tts-sAcTyquwFcdqwkyGkf0-uQ==/base.apk
+com.google.android.partnersetup | Google Partner Setup | /system_ext/priv-app/GooglePartnerSetup/GooglePartnerSetup.apk
+com.android.localtransport |  | /system/priv-app/LocalTransport/LocalTransport.apk
+com.google.android.videos | Google Play Movies | /data/app/~~5vEHGtbuFPsUPyGKx4npQw==/com.google.android.videos-vjMyP5_Eybms4funI18PzA==/base.apk
+com.android.proxyhandler | ProxyHandler | /system/priv-app/ProxyHandler/ProxyHandler.apk
+com.vt.tv.evservice | EVService | /system_ext/app/Vtp_ACR/Vtp_ACR.apk
+com.google.android.feedback | Market Feedback Agent | /system_ext/priv-app/GoogleFeedback/GoogleFeedback.apk
+com.vt.tv.calmanconnector | CalmanConnector | /system_ext/app/Vtp_CalmanConnector/Vtp_CalmanConnector.apk
+com.vt.tv.protector | Device Assistant | /system_ext/app/DeviceAssistant/DeviceAssistant.apk
+com.google.android.syncadapters.calendar | Google Calendar Sync | /product/app/GoogleCalendarSyncAdapter/GoogleCalendarSyncAdapter.apk
+com.android.managedprovisioning | Work Setup | /system/priv-app/ManagedProvisioning/ManagedProvisioning.apk
+com.android.soundpicker | Sounds | /system/priv-app/SoundPicker/SoundPicker.apk
+com.mstar.netflixobserver | Netflix Observer | /system_ext/app/MNetflixObserver/MNetflixObserver.apk
+com.vt.tv.aiotprotocolapp | AIOTProtocolApp | /system_ext/app/AIOT_ProtocolApp/AIOT_ProtocolApp.apk
+com.cbs.ca | Paramount+ | /data/app/~~AL8sbAKF9J0tnx3qNdIrpA==/com.cbs.ca-58WdWivYXbkwh10fqUbIkg==/base.apk
+com.vt.tv.ai_sense | Camera Smart Functions | /system_ext/app/Vtp_AiCamera/Vtp_AiCamera.apk
+com.vt.tv.smartsense | Smartsense | /system_ext/app/Smartsense/Smartsense.apk
+com.fic.foxsports | Fox Sports Mexico | /data/app/~~qU3Ah7VcjnwR1qs_QXHECg==/com.fic.foxsports-A_ncbAoJPbuhsg8usU0wlA==/base.apk
+com.vt.tv.videocolor | VideoColor | /system_ext/app/VideoColor/VideoColor.apk
+com.mediatek.airplaydaemon | PULL_FAIL | /vendor/app/AirPlayDaemon/AirPlayDaemon.apk
+com.google.android.apps.tv.dreamx | Ambient Mode | /data/app/~~g_iutFpCG64uHq5LJ6JMeA==/com.google.android.apps.tv.dreamx-pn28yCZ5DWPk3ElCSKws4w==/base.apk
+com.netflix.tokenmanager | Token Manager | /system_ext/priv-app/tokenManager/tokenManager.apk
+com.android.networkstack.tethering.inprocess | Tethering | /apex/com.android.tethering/priv-app/InProcessTethering/InProcessTethering.apk
+com.android.networkstack.permissionconfig |  | /system/priv-app/PlatformNetworkPermissionConfig/PlatformNetworkPermissionConfig.apk
+com.vt.fte | FTE | /system_ext/priv-app/FTE/FTE.apk
+com.mediatek.network | Wifi monitor service | /system_ext/priv-app/MtkNetworkMonitorService/MtkNetworkMonitorService.apk
+com.vt.tv.commonui | CommonUI | /system_ext/priv-app/CommonUI/CommonUI.apk
+com.google.android.youtube.tv | YouTube | /data/app/~~4hB0lfMvH__0smGt8iG5GA==/com.google.android.youtube.tv-OckPw3vQ0lg4m9cinFSlYg==/base.apk
+com.vt.source.tuner | TunerTvInput | /system_ext/priv-app/TunerTvInput/TunerTvInput.apk
+com.android.vpndialogs | VpnDialogs | /system/priv-app/VpnDialogs/VpnDialogs.apk
+com.mediatek.support.webview | WebView | /product/app/VendorWebView/VendorWebView.apk
+com.android.shell | Shell | /system/priv-app/Shell/Shell.apk
+com.android.wallpaperbackup |  | /system/app/WallpaperBackup/WallpaperBackup.apk
+com.vt.tv.input | Inputs | /system_ext/priv-app/Inputs/Inputs.apk
+com.vt.alexa | HiAlexa | /system_ext/app/HiAlexa/HiAlexa.apk
+com.android.providers.userdictionary | User Dictionary | /system/priv-app/UserDictionaryProvider/UserDictionaryProvider.apk
+com.android.providers.media.module | Media Storage | /apex/com.android.mediaprovider/priv-app/MediaProvider/MediaProvider.apk
+com.android.hotspot2.osulogin | OsuLogin | /apex/com.android.wifi/app/OsuLogin/OsuLogin.apk
+com.google.android.tv.remote.service | Android TV Remote Service | /data/app/~~VqWjkyl1hT1L0yV3AogyGA==/com.google.android.tv.remote.service-Vg8vKAUWWiI8fIT-O9SI4w==/base.apk
+com.android.location.fused | Fused Location | /system/priv-app/FusedLocation/FusedLocation.apk
+com.android.systemui | System UI | /system_ext/priv-app/SystemUI/SystemUI.apk
+com.vt.udpserver | SyncPlayServer | /system_ext/app/Vtp_SyncPlayServer/Vtp_SyncPlayServer.apk
+com.mediatek.tv.agent | TV Agent Service | /system_ext/priv-app/TvAgentService/TvAgentService.apk
+com.vt.tv.smartservice | SmartsenseService | /system_ext/app/SmartsenseService/SmartsenseService.apk
+com.vt.tv.mediacenter | Media Center | /system_ext/priv-app/MediaCenter/MediaCenter.apk
+com.hisense.odinbrowser | Hi Browser | /data/app/~~q5Sho_cV1W7ky_jd2AXpCw==/com.hisense.odinbrowser-PJaAzArxXJNC_ZPrGOwTuA==/base.apk
+com.google.android.play.games | Google Play Games | /data/app/~~A-P9BaL75eR5jD9u2iT95g==/com.google.android.play.games-0bI2JSVxxNhaQ15wRO8WXw==/base.apk
+com.mediatek.dtv.tvinput.dvbtuner | DvbTvInputService | /product/priv-app/DvbTvInputService/DvbTvInputService.apk
+com.netflix.ninja | Netflix | /data/app/~~PfEl2Avg6MIRIZfaLiNlKw==/com.netflix.ninja-SycfFvJdVicfbHKn5TaIBw==/base.apk
+com.android.bluetooth | Bluetooth | /system/app/Bluetooth/Bluetooth.apk
+com.android.providers.contacts | Contacts Storage | /system/priv-app/ContactsProvider/ContactsProvider.apk
+com.vt.eula | Eula | /system_ext/priv-app/Eula/Eula.apk
+com.android.captiveportallogin | CaptivePortalLogin | /system/app/PlatformCaptivePortalLogin/PlatformCaptivePortalLogin.apk
+com.disney.disneyplus | Disney+ | /data/app/~~_rjW61Mfj6tPfM5HZ_d7lw==/com.disney.disneyplus-plS7Vl_HDH7O2xz-4OdvJQ==/base.apk
+com.google.android.inputmethod.latin | Gboard | /data/app/~~PykFayVfBRen_aHTXhfOyg==/com.google.android.inputmethod.latin-U4LEpUFopygG77NsXwk-lw==/base.apk
+com.vt.tv.airplaykeycheck | AirPlayKeyCheck | /system_ext/app/AirPlayKeyCheck/AirPlayKeyCheck.apk
+tv.mopa.ginga | MoPA Ginga Service | /product/app/MopaGinga/MopaGinga.apk
+com.vt.hishow | Family Moment | /system_ext/app/Vtp_FamilyMoment/Vtp_FamilyMoment.apk

@@ -1,0 +1,28 @@
+2026-10-13 22:59:12 uninstall com.calientetv -> Success
+2026-10-13 22:59:22 uninstall com.calientetv -> Failure [not installed for 0]
+2026-10-13 22:59:23 uninstall com.fic.foxsports -> Success
+2026-10-13 22:59:26 uninstall com.cbs.ca -> Success
+2026-10-13 22:59:27 uninstall com.google.android.videos -> Success
+2026-10-13 22:59:28 uninstall com.spotify.tv.android -> Success
+2026-10-13 22:59:29 disable com.amazon.amazonvideo.livingroom -> Package com.amazon.amazonvideo.livingroom new state: disabled-user
+2026-10-13 22:59:29 disable net.vidaatv.hisense.android.tv -> Package net.vidaatv.hisense.android.tv new state: disabled-user
+2026-10-13 22:59:29 disable com.vidaa.oemtabcontentprovider -> Package com.vidaa.oemtabcontentprovider new state: disabled-user
+2026-10-13 22:59:29 disable com.google.android.play.games -> Package com.google.android.play.games new state: disabled-user
+2026-10-13 22:59:30 disable com.hisense.odinbrowser -> Package com.hisense.odinbrowser new state: disabled-user
+2026-10-13 22:59:30 disable android.autoinstalls.config.google.gtvpai -> Package android.autoinstalls.config.google.gtvpai new state: disabled-user
+2026-10-13 22:59:39 disable com.vt.tv.evservice -> Package com.vt.tv.evservice new state: disabled-user
+2026-10-13 22:59:39 disable com.vt.hishow -> Package com.vt.hishow new state: disabled-user
+2026-10-13 22:59:39 disable com.vt.tv.protector -> Package com.vt.tv.protector new state: disabled-user
+2026-10-13 22:59:40 disable com.vt.tv.ai_sense -> Package com.vt.tv.ai_sense new state: disabled-user
+2026-10-13 22:59:40 disable com.vt.alexa -> Package com.vt.alexa new state: disabled-user
+2026-10-13 22:59:40 disable com.vt.storemode -> Package com.vt.storemode new state: disabled-user
+2026-10-13 22:59:40 disable tv.mopa.ginga -> Package tv.mopa.ginga new state: disabled-user
+2026-10-13 22:59:40 disable com.google.android.feedback -> Package com.google.android.feedback new state: disabled-user
+2026-10-13 22:59:40 disable com.google.android.syncadapters.calendar -> Package com.google.android.syncadapters.calendar new state: disabled-user
+2026-10-13 22:59:41 disable com.android.printspooler -> Package com.android.printspooler new state: disabled-user
+2026-10-13 23:02:20 disable com.google.android.apps.tv.launcherx -> Package com.google.android.apps.tv.launcherx new state: disabled-user
+2026-10-13 23:02:20 disable com.google.android.tungsten.setupwraith -> Package com.google.android.tungsten.setupwraith new state: disabled-user
+2026-10-14 00:14:01 disable com.google.android.katniss -> Package com.google.android.katniss new state: disabled-user
+2026-10-14 00:14:01 disable com.google.android.apps.tv.dreamx -> Package com.google.android.apps.tv.dreamx new state: disabled-user
+2026-10-14 00:15:41 enable com.amazon.amazonvideo.livingroom -> user changed mind, re-enabled
+2026-10-14 00:23:26 disable com.google.android.katniss -> re-disabled (Hisense StoreModeManager force-enables it at boot)

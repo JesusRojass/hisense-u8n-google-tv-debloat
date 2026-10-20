@@ -1,3 +1,9 @@
 # Batch D — user decision 2026-10-14: Assistant (mic button unused) + Ambient Mode screensaver
 disable com.google.android.katniss
 disable com.google.android.apps.tv.dreamx
+# NOTE: Hisense Smartsense (StoreModeManager) force-enables katniss whenever
+#   persist.vt.katniss_status_backup == -1 (unset) AND katniss is disabled.
+# Fix (shell can write it):  adb shell setprop persist.vt.katniss_status_backup 3
+# Also empty the system's assistant slots so a re-enabled package is never used:
+#   adb shell settings put secure voice_interaction_service '""'
+#   adb shell settings put secure assistant '""'

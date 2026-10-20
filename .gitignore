@@ -2,3 +2,6 @@ config.sh
 *.apk
 *.dex
 .DS_Store
+boot-rearm/build/
+boot-rearm/libs/*.jar
+boot-rearm/*.keystore

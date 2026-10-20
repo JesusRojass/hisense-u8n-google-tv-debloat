@@ -26,3 +26,4 @@
 2026-10-14 00:14:01 disable com.google.android.apps.tv.dreamx -> Package com.google.android.apps.tv.dreamx new state: disabled-user
 2026-10-14 00:15:41 enable com.amazon.amazonvideo.livingroom -> user changed mind, re-enabled
 2026-10-14 00:23:26 disable com.google.android.katniss -> re-disabled (Hisense StoreModeManager force-enables it at boot)
+2026-10-20 13:53:03 uninstall com.google.android.katniss -> removed for user 0 (nuke; restore with pm install-existing)

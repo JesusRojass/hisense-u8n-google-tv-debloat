@@ -1,5 +1,5 @@
 # Batch D — user decision 2026-10-14: Assistant (mic button unused) + Ambient Mode screensaver
-disable com.google.android.katniss
+uninstall com.google.android.katniss   # removed for user 0 ("nuke"); disable alone gets force-re-enabled by Hisense unless persist.vt.katniss_status_backup != -1
 disable com.google.android.apps.tv.dreamx
 # NOTE: Hisense Smartsense (StoreModeManager) force-enables katniss whenever
 #   persist.vt.katniss_status_backup == -1 (unset) AND katniss is disabled.

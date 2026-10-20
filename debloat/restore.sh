@@ -23,5 +23,5 @@ sh_tv pm enable --user 0 com.google.android.syncadapters.calendar
 sh_tv pm enable --user 0 com.android.printspooler
 sh_tv pm enable --user 0 com.google.android.apps.tv.launcherx
 sh_tv pm enable --user 0 com.google.android.tungsten.setupwraith
-sh_tv pm enable --user 0 com.google.android.katniss
+sh_tv pm install-existing --user 0 com.google.android.katniss   # Assistant was removed for user 0 (pm uninstall --user 0)
 sh_tv pm enable --user 0 com.google.android.apps.tv.dreamx

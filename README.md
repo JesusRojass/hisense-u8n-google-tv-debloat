@@ -61,6 +61,13 @@ Gotchas learned the hard way: Button Mapper's shell action silently does nothing
 Button Mapper once; use TEST with "Show toast"); keep the command a single short token (`sh /data/local/tmp/psbutton.sh`);
 the mic key cannot be remapped (it never produces a key event).
 
+## 3b. Surviving reboots without a PC: `boot-rearm/`
+Shizuku's server dies at every full reboot and this firmware has no usable Wireless-debugging pairing for Shizuku's
+self-start. `boot-rearm/` is a 700 KB app that, ~20 s after boot, connects to the TV's **own** adbd on `127.0.0.1:5555`
+(always open on this firmware) with its own key and runs the re-arm script. Install `boot-rearm.apk`, open it once,
+accept the TV's "Allow USB debugging?" dialog with *Always allow*, done. Source + `build.sh` (plain SDK tools, no Gradle)
+are in the folder; see its README.
+
 ## 4. Remote key remaps
 ```bash
 remap/setup.sh   # enables Button Mapper's accessibility service next to Projectivy's, grants WRITE_SECURE_SETTINGS
@@ -70,8 +77,9 @@ and the mappings I use. Keycode 702 injected opens the Hisense quick-settings ba
 
 ## Things Hisense/Google undo on their own
 - The stock home + setup wizard may come back enabled after a reboot (seen once); the re-arm script re-freezes them.
-- Smartsense's `StoreModeManager` force-enables the Google Assistant package at boot and periodically. The re-arm script
-  freezes it again and also empties `voice_interaction_service` / `assistant` so a re-enabled package is never used.
+- Smartsense's `StoreModeManager` force-enables the Google Assistant package whenever `persist.vt.katniss_status_backup`
+  is unset (-1) and the package is disabled. `setprop persist.vt.katniss_status_backup 3` (works from adb) makes it skip
+  forever; the re-arm script also sets it and empties `voice_interaction_service` / `assistant`.
 - Android's microphone privacy switch (`cmd sensor_privacy enable 0 microphone`) blocks mic access for every app;
   the far-field mic LED is a separate Settings toggle ("Voice LED").
 
